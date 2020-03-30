@@ -1,4 +1,4 @@
-# Flutter + Centrifugo Notification Demo
+# Flutter + Centrifugo Push Notification Demo
 
 Code are copied from : 
 
