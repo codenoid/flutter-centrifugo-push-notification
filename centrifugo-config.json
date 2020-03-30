@@ -1,0 +1,25 @@
+{
+    "anonymous": true,
+    "publish": true,
+    "subscribe_to_publish": true,
+    "presence": true,
+    "join_leave": true,
+    "history_size": 2,
+    "history_lifetime": 5,
+    "history_recover": true,
+    "history_disable_for_client": false,
+	"debug": true,
+	"api_insecure":true,
+	"log_level":"debug",
+	"namespaces": [
+        {
+            "name": "global",
+            "publish": true,
+            "anonymous": true,
+            "subscribe_to_publish": true,
+            "history_size": 10,
+            "history_lifetime": 300,
+            "history_recover": true
+        }
+    ]
+}
